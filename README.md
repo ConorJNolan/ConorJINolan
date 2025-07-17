@@ -10,7 +10,7 @@ I specialize in **data analytics**, **machine learning**, **game telemetry**, an
 
 ## 🎓 Education
 
-- 🎓 **M.S. in Computing and Information Science** – University of North Florida  
+- 🎓 **M.S. in Computing and Information Science with a Focus in Machine Learning and A.I.** – University of North Florida  
   Thesis: *Enhanced Haptic Assessment: Advancing Hand Recovery Through Progressive UI/UX and Dynamic Force Implementation*
 
 - 🎓 **B.S. in Information Science**
